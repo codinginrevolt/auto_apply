@@ -12,6 +12,7 @@
             `sudo -i -u postgres`
         ii. Create the www-data user:
             `createuser www-data`
+    f. `pip install nominatim`
 </li>
 <li> Download the OSM data file (e.g., from Geofabrik) and import it
     
